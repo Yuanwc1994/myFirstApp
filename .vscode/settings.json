@@ -1,0 +1,6 @@
+{
+	"AICoder.ChatModelInterface": "glm-5",
+	"AICoder.CompletionModelInterface": "codeshell",
+	"AICoder.AutoTriggerCompletion": false,
+	"AICoder.ManualTriggerCompletion": true
+}
